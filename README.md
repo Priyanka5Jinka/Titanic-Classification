@@ -10,13 +10,23 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 # About the dataset features: 
 
 Survived : Survived (1) or died (0)
+
 Pclass : Passenger’s ticket class ( 1 = 1st = Upper, 2 = 2nd = Middle, 3 = 3rd = Lower) - A proxy for socio- economic status (SES)
+
 Name : Passenger’s name
+
 Sex : Passenger’s sex
+
 Age : Passenger’s age
+
 SibSp : Number of siblings/spouses aboard
+
 Parch : Number of parents/children aboard
+
 Ticket : Ticket number
+
 Fare : Passenger Fare
+
 Cabin : Cabin number
+
 Embarked : Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
